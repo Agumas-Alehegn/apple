@@ -1,0 +1,30 @@
+
+main{
+  padding-top: 84px;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  
+  .top-ad-wrap{
+    text-align: center;
+    height: 44.59px;
+    background-color: #fbfbfd;
+  }
+  .top-ad{
+    padding: 12px 0px;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(29, 29, 31);
+    margin: 0px;
+    display: inline-block;
+    text-size-adjust: 100%;
+    height: 20.59px;   
+  }
+  .more-info a{
+    color: #06c;
+  }
+  .top-ad a{
+    color: #06c;
+  }
+   

@@ -1,0 +1,372 @@
+.section-contianer{
+  background-color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 12px;
+  row-gap: 12px; 
+  padding: 0px 12px;
+ 
+}
+.ipad-block-wrap{
+  background-color: rgb(0, 0, 0);
+}
+  .ipad-block{
+    height:580px;
+    background-image: url(../Image/promo_ipadpro_refresh__evi9utuixwuq_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+   .ipad-pro{
+    color: white;
+    padding: 53px  160px 0px 160px;
+    width: 430px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600px;
+    line-height: 44px;
+    background-color: black;
+    margin: 0px;
+   }
+   .ipadblock:hover{
+    text-decoration: none;
+   }
+   .ipad-charge-block{
+    margin: 0px;
+    color: white;
+   }
+   
+   .ipad-charge{ 
+    font-size: 21px;
+    font-weight: 400;
+    color: white;
+    margin-top: -2px;
+    margin-right: 160px;
+    margin-left: 160px;
+    margin-bottom: 0px;
+    width: 430px;
+    text-align: center;
+    line-height: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .super-charge-logo-image{ 
+    width: 37;
+    height: 37px;
+    background-image: url(../Image/promo_m2_chip__enw2kz91lsuq_large.png);
+    background-size:  37px 37px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 4px;
+  }
+
+  .ipadlink-info-buy{
+    text-align: center;
+    margin-top: 12px;
+  }
+  .ipadlink-info{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(41, 151, 255);
+    margin: 0px 0px 0px -3px;
+  
+   }
+ 
+ .ipadlink-buy{
+  font-weight: 400;
+  font-size: 17px; 
+  color: rgb(41, 151, 255);
+  margin-left: 28px;
+}
+ .ipad-angle-bracket{
+  padding-left: 6px;
+  color: rgb(41, 151, 255);
+  }  
+
+  .visionpro-wrap{
+    height:580px;
+    color: black;
+    position: relative;
+  }
+  .Visionpro-background{
+    height: 580px;
+    background-image: url(../Image/promo_apple_vision_pro__f4v4zp0sum2y_large.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+  .visionpro-unit-wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    position: absolute;
+    padding-bottom: 54px;
+    height: 526px;
+    
+     
+  }
+  .vision-pro{
+    height: 41px;
+    width: 430px;
+    background-image: url(../Image/promo_logo_apple_vision_pro__90zi46p7dc2y_large.png);
+    background-size: 196px 41px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 53px 160px 0px 160px;
+    text-align: center;
+    line-height: 44px;
+  }
+  .vision-pro-statement{
+   width: 430px;
+   margin: 0px 160px;
+   text-align: center;
+   font-size: 23px;
+   font-weight: 400px;
+  
+  }
+  .VP-avliable{
+    width: 430px;
+    margin: 12px  160px 0px 160px;
+    text-align: center;
+    line-height: 21px;
+    font-size: 17px;
+  }
+  .vp-moreinfo-link{
+    text-align: center;
+    margin-top: 14px;
+  }
+  .vplink-info{
+  font-weight: 400;
+  font-size: 17px; 
+  color: rgb(41, 151, 255);
+  margin-left: 28px;
+  text-align: center;
+  }
+  
+  .link-macbook-background{
+    text-decoration: none;
+  }
+  .link-macbook-background:hover{
+    text-decoration: none;
+  }
+  .macbook-background{
+    height: 580px;
+    background-image: url(../Image/promo_macbook_air_15_midnight__3zojl1nanrme_large.jpg);
+    background-size: 1262px 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .macbook-wrap{
+    text-align: center;
+
+  }
+  .macbookair{
+    width: 430px;
+    padding: 53px 160px 0px 160px;
+    margin: 0px;
+    font-size: 40px;
+    font-weight: 600px;
+    color: black;
+
+  }
+  .macbook-promo{
+    width: 430px;
+    padding: 4px 160px 0px 160px;
+    margin: 0px;
+    font-size: 21px;
+    font-weight: 400px;
+  }
+  .linkmacbook-info-buy{
+    margin-top: 14px;
+
+  }
+  .macbooklink-info{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(41, 151, 255);
+
+  }
+  .macbooklink-buy{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(41, 151, 255);
+
+  }
+  .link-airpod-background{
+    text-decoration: none;
+  }
+  .link-airpod-background:hover{
+    text-decoration: none;
+  }
+  .airpod-background{
+    height: 580px;
+    background-image: url(../Image/promo_airpods_pro_order.jpg);
+    background-size: 1262px 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .airpod-wrap{
+    text-align: center;
+
+  }
+  .airpod{
+    width: 430px;
+    padding: 53px 160px 0px 160px;
+    margin: 0px;
+    font-size: 40px;
+    font-weight: 600px;
+    color: rgb(255, 255, 255);
+
+  }
+  .airpod-promo{
+    width: 430px;
+    padding: 4px 160px 0px 160px;
+    margin-top: 0px;
+    font-size: 21px;
+    font-weight: 400px;
+    color:white;
+  }
+  .linairpod-info-buy{
+    margin-top: 0px;
+
+  }
+  .airpodlink-info{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(0, 102, 204)
+
+  }
+  .airpodlink-buy{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(0, 102, 204)
+
+  }
+  .link-tradin-background{
+    text-decoration: none;
+  }
+  .link-tradin-background:hover{
+    text-decoration: none;
+  }
+  .tradein-background{
+    height: 580px;
+    background-image: url(../Image/promo_iphone_tradein.jpg);
+    background-size: 1262px 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+  }
+  .tradein-wrapunit{
+  text-align: center;
+
+  }
+  .tradein{
+    height: 32px;
+    width: 430px;
+    background-image:url(../Image/logo_tradein__d1fpktgipvki_large.png);
+    background-size:155px 32px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 53px 160px 0px 160px;
+    margin: 0px;
+   
+  }
+  .tradein-promo{
+    width: 315px;
+    margin-top: 0px;
+    font-size: 21px;
+    font-weight: 400px;
+    color:rgb(96, 96, 96);
+    text-align: center;
+    margin: 13px 217.5px 0px 217.5px;
+  }
+  .superscript-one{
+    font-size: 14px;
+    letter-spacing: 0px;
+  }
+  .linktradein-info-buy{
+    margin-top: 12px;
+
+  }
+  .tradeinlink-info{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(0, 102, 204)
+
+  }
+  .tradeinlink-buy{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(0, 102, 204)
+
+  }
+  .link-cashback-background{
+    text-decoration: none;
+  }
+  .link-cashback-background:hover{
+    text-decoration: none;
+  }
+  .cashback-background{
+    height: 580px;
+    background-image: url(../Image/tile.jpg);
+    background-size: 1262px 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+  }
+  .cashback-wrapunit{
+  text-align: center;
+
+  }
+  .cashback{
+    height: 33px;
+    width: 430px;
+    background-image:url(../Image/logo__dcojfwkzna2q_large.png);
+    background-size:108px 33px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 53px 160px 0px 160px;
+    margin: 0px;
+   
+  }
+  .cashback-promo{
+    width: 300px;
+    margin-top: 0px;
+    font-size: 21px;
+    font-weight: 400px;
+    color:rgb(96, 96, 96);
+    text-align: center;
+    margin: 13px 217.5px 0px 217.5px;
+  }
+  .linkcashback-info-apply{
+    margin-top: 12px;
+    text-align: center;
+
+  }
+  .cashbacklink-info{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(0, 102, 204);
+
+  }
+  .cashbacklink-apply{
+    font-weight: 400;
+    font-size: 17px; 
+    color: rgb(0, 102, 204);
+    margin-left: 35px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+ 

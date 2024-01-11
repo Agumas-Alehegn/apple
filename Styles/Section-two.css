@@ -1,0 +1,191 @@
+
+.section-two{
+margin-bottom: 15px;
+}
+.background-wrap{
+  height: 592px;
+  background-color: rgb(255, 255, 255);
+}
+.background-image{
+  height: 580px;
+  width: auto;
+  background-image: url(../Image/hero_iphone15pro__black.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  background-color: black;
+ 
+}
+.iphone-promo{
+  padding-top: 47px;
+}
+.iphone{
+  font-weight: 600;
+  font-size: 52px; 
+  color: rgb(245, 245, 247);
+  margin: 0px;
+  padding: 0px;
+}  
+.promo{
+  margin-top: 6px;
+  margin-bottom: 0px;
+  padding: 0px;
+  font-weight: 400;
+  font-size: 28px; 
+  color: rgb(245, 245, 247);
+}                                                              
+.link-info-buy{ 
+  display: inline-block;
+   margin-top: 13px;
+}
+.link-info{
+  font-weight: 400;
+  font-size: 21px; 
+  color: rgb(41, 151, 255);
+  margin-top: 10px;
+  display: inline-block;
+}
+.link-buy{
+  display: inline-block;
+  font-weight: 400;
+  font-size: 21px; 
+  color: rgb(41, 151, 255);
+  margin-left: 35px;
+}
+.angle-bracket{
+ padding-left: 6px;
+ color: rgb(41, 151, 255);
+}
+.link-black-cover{
+ text-decoration: none;
+  height: 580px;
+}
+.link-black-cover:hover{
+  text-decoration: none;
+}
+.white-background-wrap{
+  height: 676px;
+  margin-bottom: -84px;
+  z-index: 4;
+}
+.white-background{
+ 
+}
+.blue-background-image{
+  height: 580px;
+  background-image: url(../Image/hero_iphone15_white.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center ;
+  text-align: center;  
+}
+.iphone-promo-white{
+  padding-top: 47px;
+}
+.iphone-pro-white{
+  font-size: 52px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+}
+.iphone-moto-white{
+  font-size: 26px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  margin-top: 6px;
+  margin-bottom: 0px;
+}
+.iphone-time-white{
+  font-size: 20px;
+  font-weight: 400;
+  color: #1e1e1e;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.link-iphoneblue-cover{
+  text-decoration: none;
+   height: 580px;
+ }
+ .link-iphoneblue-cover:hover{
+   text-decoration: none;
+ }
+ 
+.apple-watch-wrap{
+  height: 580px;
+  
+     
+}
+.background-cover-watch{
+  height: 580px;
+  background-image: url(../Image/hero_apple_watch_series_9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top ;
+  text-align: center;
+}
+.unit-wrapper{
+  
+  padding-top: 53px;
+}
+.apple-watch-promo{
+  height: 62px;
+  background-image: url(../Image/hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium.png);
+  background-color: black;
+  background-size: 162px 62px;
+  background-repeat:  no-repeat;
+  background-position: center;
+  display: block;
+  margin-top: 8px;
+}
+.watch-moto{
+  font-size: 28px;
+  color: white;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+ 
+.link-applewatch-cover{
+  text-decoration: none;
+   height: 580px;
+ }
+ .link-applewatch-cover:hover{
+   text-decoration: none;
+ }
+ .watchlink-info-buy{
+   margin-top: 14px;
+
+ }
+ .watchlink-info{
+  font-weight: 400;
+  font-size: 21px; 
+  color: rgb(41, 151, 255);
+  margin-top: 10px;
+  display: inline-block;
+
+ }
+ .watchlink-buy{
+  display: inline-block;
+  font-weight: 400;
+  font-size: 21px; 
+  color: rgb(41, 151, 255);
+  margin-left: 35px;
+}
+ .watch-angle-bracket{
+  padding-left: 6px;
+  color: rgb(41, 151, 255);
+  }
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  height: 5000px;
+  font-family: SF Pro Text, Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+a{
+  text-decoration: none;
+  color: #575757;
+}
+a:hover{
+  text-decoration: underline;
+}

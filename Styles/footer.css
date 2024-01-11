@@ -1,0 +1,290 @@
+footer{
+  background-color:rgb(245, 245, 247);
+ 
+}
+.footer-contianer{
+color: rgb(110, 110, 115);
+font-size: 12px;
+font-weight: 400;
+padding: 0px 22px;
+margin: 0px 247.6px;
+letter-spacing: normal;
+line-height: 16px;
+text-size-adjust: 100%;
+ 
+
+}
+.footer-section-one{
+  padding: 17px 0px 11px 0px;
+  line-height: 16px;
+  
+}
+ 
+p{
+  margin: 0px;
+   padding: 0px 0px 9.6px 0px;
+
+}
+.FNlink-appleweb{
+  text-decoration: underline;
+  color: #424245;
+}
+.FNlink-apple-support{
+  text-decoration: underline;
+  color: #424245;
+}
+.border-bottom-separate{
+ border-bottom: 1px solid rgb(194, 194, 194);  
+margin: 0px;
+}
+.footer-nav{
+  display: flex;
+  flex-direction: row;
+  padding: 20px 0px 0px 0px;
+  height: 440px;
+  width: 980px;
+}
+.SL-AW-contianer{
+ height: 440px;
+ width: 196px;
+}
+.SL-head{
+  font-weight: 600;
+ margin: 0px 20px 10px 0px;
+}
+.Shop-Learn-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+ 
+}
+.SL-list{
+padding: 0px;
+margin-bottom: 10px;
+}
+.Apple-wallet-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.AW-head{
+font-weight: 600;
+ margin: 0px 20px 10px 0px;
+}
+.AW-list{
+  padding: 0px;
+  margin-bottom: 10px;
+
+}
+.Acct-Ent-contianer{
+  height: 440px;
+ width: 196px;
+
+}
+.Account-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.Acct-head{
+font-weight: 600;
+ margin: 0px 20px 10px 0px;
+}
+.A-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.Entertiament-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.Ent-head{
+  font-weight: 600;
+ margin: 0px 20px 10px 0px;
+}
+.E-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.AS-contianer{
+  height: 440px;
+ width: 196px;
+} 
+.Apple-Store-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.AS-head{
+  font-weight: 600;
+  margin: 0px 20px 10px 0px;
+}
+.AS-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.Bus-Edu-HC-Gov-contianer{
+  height: 440px;
+  width: 196px;
+}
+.business-head{
+  font-weight: 600;
+  margin: 0px 20px 10px 0px;
+}
+.Business-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.B-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.Edu-head{
+  font-weight: 600;
+  margin: 0px 20px 10px 0px;
+}
+.Education-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+
+.Edu-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.HC-head{
+  font-weight: 600;
+  margin: 0px 20px 10px 0px;
+}
+.Healthcare-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.HC-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.Gov-head{
+  font-weight: 600;
+  margin: 0px 20px 10px 0px;
+}
+.Government{
+  list-style-type: none;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.Gov-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.apple-about-value-contianer{
+  height: 440px;
+ width: 196px;
+}
+.AV-head{
+  font-weight: 600;
+  margin: 0px 20px 10px 0px;
+}
+.Values-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.AV-list{
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.AA-head{
+  font-weight: 600;
+  margin: 0px 20px 10px 0px;
+}
+.About-apple-list{
+  list-style-type: none;
+  margin: 0px 20px 0px 0px;
+  padding: 0px;
+}
+.AA-list{
+  padding: 0px;
+  margin-bottom: 10px;
+
+}
+.footer-section-two{
+ padding: 34px 0px 21px 0px;
+ width: 980px;
+}
+.Section-wrapper{
+  display: block;
+  width: 980px;
+  
+}
+.Shoping-info{
+  margin-bottom: 7px;
+  padding: 0px 0px 8px 0px;
+  
+}
+.footerlink-shopinginfo{
+  color: #0066cc;
+  text-decoration: underline;
+}
+.footerlink-shopinginfo-retialer{
+  color: #0066cc;
+  text-decoration: underline; 
+}
+
+.border-bottom-separate-two{
+  border-bottom: 1px solid rgb(222, 222, 222);
+ 
+}
+
+.Copyright{
+  margin: 5px 30px 0px 0px;
+  padding: 0px;
+  display: inline-block;
+}
+.legal-unit-wrapper{
+  display:inline-block;
+  margin: 5px 30px 0px 0px;
+  padding: 0px;
+  
+}
+.Terms{
+  padding: 0px 10px 0px 0px;
+  display: inline-block;
+}
+.sale-refund{
+  padding: 0px 10px 0px 0px;
+  display: inline-block;
+  letter-spacing: 0px;
+   
+}
+.legal{
+  padding: 0px 10px 0px 0px;
+  display: inline-block;
+  
+}
+.pp{
+  padding: 0px 10px 0px 0px;
+  display: inline-block;
+  text-align: left;
+}
+.site-map{
+  padding: 0px 10px 0px 0px;
+  display: inline-block;
+}
+.us{
+  display: inline-block;
+  padding: 0px;
+  text-align: left;
+  margin-top: 5px;
+
+}
+.legal-privacy{
+   border-left:1px solid rgb(110, 110, 115);
+   border-width: 1px;
+   margin-left: 0px;
+}
+   
